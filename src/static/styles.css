@@ -142,3 +142,11 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participants-list {
+  padding-left: 2em;
+}
+
+.participants-list li {
+  padding-left: 1em;
+}
